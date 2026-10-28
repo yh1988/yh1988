@@ -9,3 +9,7 @@
 ### 联系与合作
 
 完整版购买、代部署服务：见 [flowkit-free 仓库首页](https://github.com/yh1988/flowkit-free#readme)。
+
+### 支持作者
+
+请我喝杯咖啡 ☕：[爱发电 · haoyard](https://afdian.com/a/haoyard)
